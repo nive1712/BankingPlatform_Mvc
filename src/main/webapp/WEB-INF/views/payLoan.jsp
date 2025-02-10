@@ -1,4 +1,4 @@
-
+<!-- <!DOCTYPE html>-->
 <head>
     <title>Pay Loan</title>
     <style>
